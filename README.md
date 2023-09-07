@@ -9,9 +9,8 @@
 
 - 👨‍💻 I'm currently working at [Blockchain Partner by KPMG](https://twitter.com/BlockchainPartn).
 - 💡 I like to explore new blockchain technologies ( scalability and privacy solutions ) and develop Dapps and quick hacks.
-- 🌱 I’m currently learning netxJS and solidity
 - 🧑‍💻 I love developing all kind of applications with python
-- 💫 Passionate about crypto , AI and computer vision 
+- 💫 Passionate about crypto ,blockchain ,  AI and computer vision 
 - ⚡ Fun Facts : 🍕🧀🎮📸🎵
 
 <br>
