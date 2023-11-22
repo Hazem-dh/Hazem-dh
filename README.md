@@ -1,6 +1,6 @@
 # Hey there! , I'm Hazem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-  <h3 align="center">A Fullstack blockchain engineer </h3>
+  <h3 align="center">A Fullstack blockchain engineer / web3 developer </h3>
   <p align="center">
    <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
   </p>
