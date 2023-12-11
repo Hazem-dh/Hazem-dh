@@ -9,6 +9,7 @@
 
 - 👨‍💻 I'm currently working at [Blockchain Partner by KPMG](https://twitter.com/BlockchainPartn).
 - 💡 I like to explore new blockchain technologies ( scalability and privacy solutions ) and develop Dapps and quick hacks.
+- 🧑‍💻 Curently learning smart contract reviewing by detecting bugs and vulnerabilies 
 - 🧑‍💻 I love developing all kind of applications with python
 - 💫 Passionate about crypto ,blockchain ,  AI and computer vision 
 - ⚡ Fun Facts : 🍕🧀🎮📸🎵
