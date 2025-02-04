@@ -9,14 +9,14 @@
 
 - 👨‍💻 I'm currently working at [Blockchain Partner by KPMG](https://twitter.com/BlockchainPartn).
 - 💡 I like to explore new blockchain technologies ( scalability and privacy solutions ) and develop Dapps and quick hacks.
-- 🧑‍💻 Curently Rust to make high performance apps
+- 🧑‍💻 I am curently learning Rust to make high performance apps
 - 🧑‍💻 I love developing all kind of applications with python
-- 💫 Passionate about crypto ,blockchain ,  AI and computer vision 
+- 💫 Passionate about crypto ,blockchain ,AI and computer vision 
 - ⚡ Fun Facts : 🍕🧀🎮📸🎵
 
 <br>
 
-## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
@@ -24,7 +24,6 @@
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Cairo](https://img.shields.io/badge/cairo-%2320232a.svg?style=for-the-badge&logo=cairo&logoColor=%2361DAFB)
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
