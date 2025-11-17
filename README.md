@@ -65,9 +65,7 @@
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/hazem-dhaou/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
    		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Hazem_dh">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Hazem-dh">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="32" />
       </div>
 
 </p>
